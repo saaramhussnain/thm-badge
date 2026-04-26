@@ -6,4 +6,4 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: KeizerSec/Tryhackme-Badge@v1
-        with: { username: Vyrux77 }
+        with: { username: Vyrux }
